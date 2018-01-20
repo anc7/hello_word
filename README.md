@@ -1,2 +1,3 @@
 # hello_word
-A start
+一开始
+yes its a start
